@@ -1,0 +1,8 @@
+.box1{width:50%; height: 100%; background-color: black; margin:auto;position:relative;}
+.box2{width: 22%; height: 28.5%; background-color: e9e8e4;position:absolute;}
+.box3{width: 75%; height: 70%; background-color: red; position:absolute;left:25%;}
+.box4{width: 22%; height: 37%; background-color: e9e8e4;position:absolute;top:33%;}
+.box5{width: 22%; height: 27%; background-color: blue;position:absolute;top:73%;}
+.box6{width: 64%; height: 27%; background-color: e9e8e4;position:absolute;top:73%;left:25%}
+.box7{width: 7%; height: 11.5%; background-color: e9e8e4;position:absolute;top:73%;left:93%}
+.box8{width: 7%; height: 11.5%; background-color: yellow;position:absolute;top:88.5%;left:93%}
